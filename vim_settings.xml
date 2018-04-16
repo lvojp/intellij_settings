@@ -1,0 +1,203 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1523083082240">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1521709172375">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1521205286989">
+        <mark key="[" line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testruby/hoge.php" timestamp="1521448646691">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1522038722004">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/ruby/poloniex_ruby/main.rb" timestamp="1523350442886">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="21" />
+        <mark key="^" line="0" column="21" />
+        <mark key="." line="0" column="21" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/lib/hoge.rb" timestamp="1522128346222">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/test.html" timestamp="1521296985944">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/main.rb" timestamp="1523085175250">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="35" />
+      </file>
+      <file name="$USER_HOME$/develop/wordpress/giraffeong.com/.idea/.gitignore" timestamp="1521944290641">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/testruby/main.rb" timestamp="1521209055589">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="43" />
+        <mark key="." line="2" column="43" />
+        <mark key="^" line="2" column="43" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1523349652511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/ruby/poloniex_ruby/Gemfile" timestamp="1523349456938">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex/Gemfile" timestamp="1522134349438">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="5" column="13" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="13" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/currency_pair.rb" timestamp="1522128209348">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" timestamp="1522039244873">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="52" column="60" />
+      </file>
+      <file name="/" timestamp="1522038747456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/memo.txt" timestamp="1522137329385">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/style.css" timestamp="1522039642428">
+        <mark key="[" line="2154" column="21" />
+        <mark key="]" line="2154" column="23" />
+        <mark key="." line="2154" column="23" />
+        <mark key="^" line="2154" column="23" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/test_html/hage.html" timestamp="1522038162493">
+        <mark key="[" line="14" column="7" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
+        <mark key="[" line="1518" column="2" />
+        <mark key="]" line="1517" column="0" />
+        <mark key="^" line="1517" column="0" />
+        <mark key="." line="1517" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>import</text>
+      </register>
+      <register name="-" type="4">
+        <text>import</text>
+      </register>
+      <register name="/" type="4">
+        <text>.idea</text>
+      </register>
+      <register name="0" type="4">
+        <text>1405699200</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">aW1wb3J0ICdwb2xvbmlleF9ydWJ5Jwo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Z2VtICdwb2xvbmlleF9ydWJ5Jwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Iwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IyByZXF1aXJlICdidW5kbGVyL3NldHVwJwo=</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>.idea</last-search>
+      <last-offset />
+      <last-pattern>.idea</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>blog-logo</entry>
+        <entry>.idea</entry>
+      </history-search>
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

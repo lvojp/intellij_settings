@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test.rb" type="PLAIN_TEXT" />
+      <mapping pattern="ruby" type="PLAIN_TEXT" />
+      <mapping pattern="rb" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
