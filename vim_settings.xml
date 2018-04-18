@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Ruby Console" timestamp="1523083082240">
+      <file name="/Ruby Console" timestamp="1524038762565">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1521709172375">
@@ -75,6 +75,12 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/sandbox/ruby/poloniex/main.rb" timestamp="1524038970132">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="3" column="3" />
+      </file>
       <file name="$USER_HOME$/develop/poloniex/Gemfile" timestamp="1522134349438">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="5" column="13" />
@@ -126,8 +132,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>import</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>import</text>
@@ -139,19 +145,19 @@
         <text>1405699200</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Z2VtICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHJ1YnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">aW1wb3J0ICdwb2xvbmlleF9ydWJ5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Z2VtICdwb2xvbmlleF9ydWJ5Jwo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
@@ -160,10 +166,10 @@
         <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">Iwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyByZXF1aXJlICdidW5kbGVyL3NldHVwJwo=</text>
+        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
       </register>
     </registers>
     <search>
