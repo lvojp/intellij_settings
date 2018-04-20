@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -17,9 +14,6 @@
       </file>
       <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1521205286989">
-        <mark key="[" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testruby/hoge.php" timestamp="1521448646691">
         <mark key="[" line="0" column="0" />
@@ -41,6 +35,9 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1521205286989">
+        <mark key="[" line="18" column="33" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/test.html" timestamp="1521296985944">
         <mark key="[" line="2" column="0" />
@@ -75,11 +72,11 @@
         <mark key="^" line="5" column="18" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/sandbox/ruby/poloniex/main.rb" timestamp="1524039374269">
-        <mark key="[" line="3" column="1" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="3" column="3" />
+      <file name="$USER_HOME$/Dropbox/sandbox/ruby/poloniex/main.rb" timestamp="1524240059949">
+        <mark key="[" line="9" column="20" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/develop/poloniex/Gemfile" timestamp="1522134349438">
         <mark key="[" line="4" column="0" />
@@ -99,6 +96,9 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="52" column="60" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="/" timestamp="1522038747456">
         <mark key="[" line="0" column="0" />
@@ -132,11 +132,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>JPY_BTC</text>
       </register>
       <register name="-" type="4">
-        <text>import</text>
+        <text>JPY_BTC</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -203,7 +203,7 @@
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
-      <key-repeat enabled="true" />
+      <key-repeat enabled="false" />
     </editor>
   </component>
 </application>
