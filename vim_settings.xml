@@ -109,6 +109,12 @@
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/sandbox/ruby/main.rb" timestamp="1524631916523">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="/" timestamp="1522038747456">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,11 +147,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>false</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -154,31 +160,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbnRlclBhZGRpbmc6ICc2MHB4JywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbnRlclBhZGRpbmc6ICc2MHB4JywK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbnRlclBhZGRpbmc6ICc2MHB4JywK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICBhbmltYXRpb246IHNsaWRlCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">77yl77y077yj54m5Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHJ1YnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbnRlclBhZGRpbmc6ICc2MHB4JywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNlbnRlclBhZGRpbmc6ICc2MHB4JywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z2VtICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">ICAgICBhbmltYXRpb246IHNsaWRlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
