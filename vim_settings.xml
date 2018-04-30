@@ -60,8 +60,10 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524915058017">
+      <file name="/Dummy.txt" timestamp="1525087033373">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="9" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
         <mark key="[" line="0" column="0" />
