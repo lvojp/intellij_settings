@@ -72,7 +72,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525100335595">
+      <file name="/Dummy.txt" timestamp="1525104458466">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -81,10 +81,12 @@
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" timestamp="1525100549819">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" timestamp="1525104379420">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="46" column="43" />
       </file>
       <file name="$USER_HOME$/develop/ruby/poloniex_ruby/Gemfile" timestamp="1523349456938">
         <mark key="[" line="5" column="0" />
@@ -155,66 +157,47 @@
     </filemarks>
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
+      <jump line="12" column="7" filename="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="-" type="4">
-        <text>18p</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsc1swXVswXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsMjU1LDApKTsKICAgICAgICAgICAgICAgICAgICBjZWxsc1syXVsyXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsMjU1LDApKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2xlZXAoNTApOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbnVtICs9IDMwOwogICAgICAgICAgICAgICAgICAgICAgICBjZWxsc1swXVswXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsIG51bSwgMCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjZWxsc1syXVsyXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsIG51bSwgMCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbnVtICs9IDMwOwogICAgICAgICAgICAgICAgICAgICAgICBjZWxsc1swXVswXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsIG51bSwgMCkpOwogICAgICAgICAgICAgICAgICAgICAgICBjZWxsc1syXVsyXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsIG51bSwgMCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENhbnZhc0Jhc2ljVmlldyB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cGFja2FnZSBqcC5jby5saXZlcy5nYWl0dmlldzI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsc1swXVswXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDI1NSwwLDApKTsKICAgICAgICAgICAgICAgICAgICBjZWxsc1syXVsyXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDI1NSwwLDApKTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>import android.content.Context;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
-import android.view.View;
-
-public class CanvasBasicView extends View {
-
-    private Paint mPaint = new Paint();
-
-    public CanvasBasicView(Context context) {
-        super(context);
-    }
-
-    @Override
-    protected void onDraw(Canvas canvas) {
-        super.onDraw(canvas);
-
-        canvas.drawText(&quot;Hello Custom View!&quot;, 50, 50, mPaint);
-    }
-}</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvcihpbnQgaT0wO2k8MTAwMDtpKyspewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZFRleHRWaWV3Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
