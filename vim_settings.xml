@@ -66,7 +66,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525093900708">
+      <file name="/Dummy.txt" timestamp="1525096104707">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -104,6 +104,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
         <mark key="^" line="52" column="60" />
+      </file>
+      <file name="$USER_HOME$/IntelliJIDEAProjects/ArraySample/app/src/main/java/jp/co/lives/arraysample/MainActivity.java" timestamp="1525096112222">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="56" column="17" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
         <mark key="[" line="0" column="0" />
@@ -147,43 +153,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>HARE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>HARE</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBrYXNhSXJ1a2EoSEFSRSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGthc2FJcnVrYShIQVJFKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBLVU1PUkk6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIHRlbmtpID09QU1FKSB7CiAgICAgICAgICAgIExvZy5kKCLooYzli5UiLCLlgpjjgpLjgoLjgaPjgabjgYTjgY8iKTsKICAgICAgICB9ZWxzZSBpZiAodGVua2kgPT0gS1VNT1JJKXsKICAgICAgICAgICAgTG9nLmQoIuihjOWLlSIsIuaKmOOCiueVs+OBv+WCmOOCkuaMgeOBo+OBpuOBhOOBjyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBMb2cuZCgi6KGM5YuVIiwi5YKY44KS5oyB44Gj44Gm44GE44GL44Gq44GEIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyA9IHRleHRWaWV3ID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlldyk7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCh0YWc6ImFjdGlvbiIsbXNnOiLlgpjjgpLjgoLjgaPjgabjgYTjgY8iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
     </registers>
     <search>
