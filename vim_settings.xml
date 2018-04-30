@@ -18,6 +18,12 @@
       <file name="$USER_HOME$/IdeaProjects/testruby/hoge.php" timestamp="1521448646691">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IntelliJIDEAProjects/showImage/app/src/main/java/jp/co/lives/showimage/MainActivity.kt" timestamp="1525087322546">
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="^" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+      </file>
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,10 +66,10 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525087033373">
+      <file name="/Dummy.txt" timestamp="1525087146979">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="9" />
-        <mark key="." line="0" column="9" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
         <mark key="[" line="0" column="0" />
@@ -135,10 +141,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>JPY_BTC</text>
+        <text>im</text>
       </register>
       <register name="-" type="4">
-        <text>JPY_BTC</text>
+        <text>im</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
