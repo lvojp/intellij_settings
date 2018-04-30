@@ -66,10 +66,11 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525096104707">
+      <file name="/Dummy.txt" timestamp="1525098964013">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
         <mark key="[" line="0" column="0" />
@@ -97,13 +98,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" timestamp="1522039244873">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="52" column="60" />
       </file>
       <file name="$USER_HOME$/IntelliJIDEAProjects/ArraySample/app/src/main/java/jp/co/lives/arraysample/MainActivity.java" timestamp="1525096112222">
         <mark key="[" line="56" column="17" />
@@ -152,11 +146,11 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZFRleHRWaWV3Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>18p</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -165,31 +159,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCkK</text>
+        <text encoding="base64">ZFRleHRWaWV3Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyA9IHRleHRWaWV3ID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlldyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGthaXN1KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBUZXh0VmlldyA9IHRleHRWaWV3ID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC50ZXh0Vmlldyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
