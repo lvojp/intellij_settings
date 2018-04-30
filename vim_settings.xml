@@ -66,7 +66,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525093205989">
+      <file name="/Dummy.txt" timestamp="1525093900708">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -114,6 +114,12 @@
       <file name="$USER_HOME$/develop/poloniex_alert/memo.txt" timestamp="1522137329385">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/IntelliJIDEAProjects/ShowImage/app/src/main/java/jp/co/lives/showimage/MainActivity.java" timestamp="1525094918879">
+        <mark key="[" line="35" column="18" />
+        <mark key="]" line="35" column="23" />
+        <mark key="^" line="35" column="23" />
+        <mark key="." line="35" column="23" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/style.css" timestamp="1522039642428">
         <mark key="[" line="2154" column="21" />
         <mark key="]" line="2154" column="23" />
@@ -141,43 +147,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>im</text>
+        <text>HARE</text>
       </register>
       <register name="-" type="4">
-        <text>im</text>
+        <text>HARE</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
-      <register name="0" type="4">
-        <text>1405699200</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBrYXNhSXJ1a2EoSEFSRSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGthc2FJcnVrYShIQVJFKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBLVU1PUkk6Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyEgL3Vzci9iaW4vZW52IHJ1YnkK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIHRlbmtpID09QU1FKSB7CiAgICAgICAgICAgIExvZy5kKCLooYzli5UiLCLlgpjjgpLjgoLjgaPjgabjgYTjgY8iKTsKICAgICAgICB9ZWxzZSBpZiAodGVua2kgPT0gS1VNT1JJKXsKICAgICAgICAgICAgTG9nLmQoIuihjOWLlSIsIuaKmOOCiueVs+OBv+WCmOOCkuaMgeOBo+OBpuOBhOOBjyIpOwogICAgICAgIH1lbHNlewogICAgICAgICAgICBMb2cuZCgi6KGM5YuVIiwi5YKY44KS5oyB44Gj44Gm44GE44GL44Gq44GEIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0ICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Z2VtICdwb2xvbmlleF9ydWJ5Jwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Iwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCh0YWc6ImFjdGlvbiIsbXNnOiLlgpjjgpLjgoLjgaPjgabjgYTjgY8iKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHV0cyBQb2xvbmlleC50cmFkZV9oaXN0b3J5KCdCVEMnKQo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgCg==</text>
       </register>
     </registers>
     <search>
