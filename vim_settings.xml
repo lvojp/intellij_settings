@@ -75,7 +75,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525247876492">
+      <file name="/Dummy.txt" timestamp="1525250415234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -156,6 +156,9 @@
         <mark key="]" line="1517" column="0" />
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/sandbox/Android/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525250052818">
+        <mark key="[" line="14" column="47" />
       </file>
       <file name="/fragment.java" timestamp="1525238080755">
         <mark key="[" line="0" column="0" />
