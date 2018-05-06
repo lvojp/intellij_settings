@@ -40,11 +40,16 @@
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525604420407">
-        <mark key="[" line="33" column="11" />
-        <mark key="]" line="33" column="19" />
-        <mark key="." line="33" column="19" />
-        <mark key="^" line="33" column="19" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525604760916">
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="6" />
+        <mark key="." line="72" column="6" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotManager.java" timestamp="1525604878940">
+        <mark key="[" line="6" column="13" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="6" column="27" />
       </file>
       <file name="/JavaScript Console" timestamp="1522038722004">
         <mark key="[" line="0" column="0" />
@@ -161,16 +166,27 @@
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525606016462">
+        <mark key="[" line="54" column="36" />
+        <mark key="]" line="54" column="37" />
+        <mark key="^" line="32" column="20" />
+        <mark key="." line="54" column="37" />
+      </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
         <mark key="]" line="1517" column="0" />
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525604301835">
-        <mark key="[" line="45" column="42" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525605764627">
+        <mark key="i" line="26" column="28" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="47" column="46" />
+      </file>
+      <file name="/fragment.java" timestamp="1525605581036">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -179,44 +195,44 @@
       <jump line="61" column="51" filename="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>int</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdSZWN0KHIsIHBhaW50KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>dot.point.x</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZWN0KGludCB4LCBpbnQgeSwgQ29sb3IgYykgewo=</text>
+        <text encoding="base64">Ly8vLyAgICAgICAgICAgIGZvcihpbnQgaT0wOyBpPCBkbS5NQVhfQ09MKiBkbS5NQVhfUk9XOyBpKyspewovLy8vICAgICAgICAgICAgICAgIERvdCBkb3QgPSBkbS5nZXREb3QoaSk7Ci8vLy8gICAgICAgICAgICAgICAgUmVjdCByID0gbmV3IFJlY3QoZG90LnBvaW50LngsIGRvdC5wb2ludC55LCBkb3QucG9pbnQueCtkbS5TSVpFLCBkb3QucG9pbnQueStkbS5TSVpFKTsKLy8vLyAgICAgICAgICAgICAgICBjYW52YXMuZHJhd1JlY3QociwgcGFpbnQpOwovLy8vICAgICAgICAgICAgfQovLy8vICAgICAgICAgICAgY2FudmFzLmRyYXdSZWN0KHIsIHBhaW50KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdSZWN0KHIsIHBhaW50KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIENvbG9yIGNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHAueDsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIFNpemUgc2l6ZSA9IG5ldyBTaXplKCkK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBBcnJheUxpc3Q8RG90PiBkb3QgPSBybS5nZXREbygpOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IHsKCiAgICAvL21hdHJpeCA=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y2xhc3MgIHsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Y2xhc3MgUmVjdGFuZ2xlIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgUmVjdGFuZ2xlIHsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
     </registers>
     <search>
