@@ -166,11 +166,11 @@
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525610361626">
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="80" column="18" />
-        <mark key="." line="80" column="18" />
-        <mark key="^" line="80" column="18" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525611793276">
+        <mark key="[" line="84" column="12" />
+        <mark key="]" line="84" column="14" />
+        <mark key="." line="84" column="14" />
+        <mark key="^" line="84" column="14" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -178,14 +178,14 @@
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525609362814">
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525612022846">
         <mark key="i" line="26" column="28" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="52" column="15" />
+        <mark key="[" line="52" column="16" />
+        <mark key="]" line="52" column="17" />
+        <mark key="." line="52" column="17" />
+        <mark key="^" line="52" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1525605581036">
+      <file name="/fragment.java" timestamp="1525611975480">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -196,43 +196,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>colorScaleBCGYR((float)256/color)</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>colorScaleBCGYR((float)256/color)</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbG9yID0gY29sb3JTY2FsZUJDR1lSKChmbG9hdCkyNTYvY29sb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKENvbG9yLmFyZ2IoMjU1LCAyNTUsIDAsIDI1NSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xvciA9IGM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBQb2ludCBwID0gbmV3IFBvaW50KDUwLDQwKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb2xvclNjYWxlQkNHWVIoYyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKENvbG9yLk1BR0VOVEEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g44Oa44Kk44Oz44OI44GZ44KL6Imy44Gu6Kit5a6aCiAgICAgICAgICAgIHBhaW50LnNldENvbG9yKENvbG9yLmFyZ2IoMjU1LCAyNTUsIDAsIDI1NSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERvdCBkb3QgPSBkbS5nZXREb3QoaSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFpbnQuc2V0Q29sb3IoQ29sb3IuTUFHRU5UQSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gYW5kcm9pZC5ncmFwaGljcy5Db2xvci5hcmdiKGEscixnLGIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldFN0eWxlKFBhaW50LlN0eWxlLkZJTEwpOwogICAgICAgICAgICAgICAgcGFpbnQuc2V0Q29sb3IoQ29sb3IuTUFHRU5UQSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FudmFzLmRyYXdSZWN0KHIsIHBhaW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBBbmRyb2lkLkdyYXBoaWNzLkNvbG9yIHJlc3VsdCA9IG5ldyBDb2xvci5hcmdiKDI1NSxyLGcsYik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZm9yIAo=</text>
+        <text encoding="base64">ICAgICAgICBBbmRyb2lkLkdyYXBoaWNzLmNvbG9yLnJlc3VsdCA9IG5ldyBDCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3IuUkdCOwo=</text>
       </register>
     </registers>
     <search>
