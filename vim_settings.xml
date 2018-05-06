@@ -21,11 +21,12 @@
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" timestamp="1525598380032">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="o" line="31" column="26" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" timestamp="1525601348382">
+        <mark key="'" line="61" column="51" />
+        <mark key="[" line="61" column="53" />
+        <mark key="]" line="61" column="54" />
+        <mark key="." line="61" column="54" />
+        <mark key="^" line="74" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testruby/hoge.php" timestamp="1521448646691">
         <mark key="[" line="0" column="0" />
@@ -170,46 +171,47 @@
     <jumps>
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
       <jump line="12" column="7" filename="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" />
+      <jump line="61" column="51" filename="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>startY</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjZWxsc1swXVswXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsMjU1LDApKTsKICAgICAgICAgICAgICAgICAgICBjZWxsc1syXVsyXS5zZXRCYWNrZ3JvdW5kQ29sb3IoQ29sb3IucmdiKDAsMjU1LDApKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZWN0KGludCB4LCBpbnQgeSwgQ29sb3IgYykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIENvbG9yIGNvbG9yOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHAueDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEludGVnZXIgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNpemUgc2l6ZSA9IG5ldyBTaXplKCkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
