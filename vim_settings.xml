@@ -166,11 +166,11 @@
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525611793276">
-        <mark key="[" line="84" column="12" />
-        <mark key="]" line="84" column="14" />
-        <mark key="." line="84" column="14" />
-        <mark key="^" line="84" column="14" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525613680237">
+        <mark key="[" line="66" column="86" />
+        <mark key="]" line="66" column="83" />
+        <mark key="^" line="66" column="83" />
+        <mark key="." line="66" column="83" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -178,12 +178,12 @@
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525612022846">
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525613429291">
         <mark key="i" line="26" column="28" />
-        <mark key="[" line="52" column="16" />
-        <mark key="]" line="52" column="17" />
-        <mark key="." line="52" column="17" />
-        <mark key="^" line="52" column="17" />
+        <mark key="[" line="52" column="88" />
+        <mark key="]" line="52" column="131" />
+        <mark key="." line="52" column="131" />
+        <mark key="^" line="52" column="131" />
       </file>
       <file name="/fragment.java" timestamp="1525611975480">
         <mark key="[" line="0" column="0" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -208,31 +208,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKENvbG9yLmFyZ2IoMjU1LCAyNTUsIDAsIDI1NSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvciA9IGM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMDsKICAgICAgICAgICAgICAgIGEgPSBDb2xvci5hbHBoYShkb3QuZ2V0Q29sb3IoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvclNjYWxlQkNHWVIoYyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMDsKICAgICAgICAgICAgICAgIGEgPSBDb2xvci5hbHBoYShkb3QuZ2V0Q29sb3IoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbG9yLnZhbHVlT2YoZG90LmNvbG9yKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERvdCBkb3QgPSBkbS5nZXREb3QoaSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gYW5kcm9pZC5ncmFwaGljcy5Db2xvci5hcmdiKGEscixnLGIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIEFycmF5TGlzdDxJbnRlZ2VyPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBbmRyb2lkLkdyYXBoaWNzLkNvbG9yIHJlc3VsdCA9IG5ldyBDb2xvci5hcmdiKDI1NSxyLGcsYik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdC5hZGQocik7Ci8vICAgICAgICByZXN1bHQuYWRkKGcpOwovLyAgICAgICAgcmVzdWx0LmFkZChiKTsKLy8gICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBbmRyb2lkLkdyYXBoaWNzLmNvbG9yLnJlc3VsdCA9IG5ldyBDCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGNvbG9yID0gY29sb3JTY2FsZUJDR1lSKChmbG9hdCkyNTYvY29sb3IpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuZ3JhcGhpY3MuQ29sb3IuUkdCOwo=</text>
+        <text encoding="base64">ICAgICAgICBDb2xvciByZXN1bHQgPSBuZXcgQ29sb3IoKTsK</text>
       </register>
     </registers>
     <search>
