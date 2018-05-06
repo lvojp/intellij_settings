@@ -90,7 +90,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525104458466">
+      <file name="/Dummy.txt" timestamp="1525615007395">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -166,11 +166,11 @@
       <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525613680237">
-        <mark key="[" line="66" column="86" />
-        <mark key="]" line="66" column="83" />
-        <mark key="^" line="66" column="83" />
-        <mark key="." line="66" column="83" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525614919600">
+        <mark key="[" line="102" column="38" />
+        <mark key="]" line="102" column="38" />
+        <mark key="^" line="52" column="25" />
+        <mark key="." line="102" column="38" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -196,10 +196,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>s</text>
+        <text>る</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>る</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -208,31 +208,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhaW50LnNldENvbG9yKENvbG9yLmFyZ2IoMjU1LCAyNTUsIDAsIDI1NSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMDsKICAgICAgICAgICAgICAgIGEgPSBDb2xvci5hbHBoYShkb3QuZ2V0Q29sb3IoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBhID0gMDsKICAgICAgICAgICAgICAgIGEgPSBDb2xvci5hbHBoYShkb3QuZ2V0Q29sb3IoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkeCA9PSAyNTUpewogICAgICAgICAgICAgICAgaWR4ID0gMDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbG9yLnZhbHVlT2YoZG90LmNvbG9yKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZHgrKzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlkeCsrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEFycmF5TGlzdDxJbnRlZ2VyPiByZXN1bHQgPSBuZXcgQXJyYXlMaXN0PEludGVnZXI+KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGlkeCA9PSAyNTUpewogICAgICAgICAgICAgICAgaWR4ID0gMDsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlc3VsdC5hZGQocik7Ci8vICAgICAgICByZXN1bHQuYWRkKGcpOwovLyAgICAgICAgcmVzdWx0LmFkZChiKTsKLy8gICAgICAgIHJldHVybiByZXN1bHQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgIGNvbG9yID0gY29sb3JTY2FsZUJDR1lSKChmbG9hdCkyNTYvY29sb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWR4Kys7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb2xvciByZXN1bHQgPSBuZXcgQ29sb3IoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
     </registers>
     <search>
