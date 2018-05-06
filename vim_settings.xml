@@ -40,11 +40,11 @@
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525601434600">
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="." line="69" column="0" />
-        <mark key="^" line="69" column="0" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525604420407">
+        <mark key="[" line="33" column="11" />
+        <mark key="]" line="33" column="19" />
+        <mark key="." line="33" column="19" />
+        <mark key="^" line="33" column="19" />
       </file>
       <file name="/JavaScript Console" timestamp="1522038722004">
         <mark key="[" line="0" column="0" />
@@ -167,11 +167,10 @@
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
       </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525592281901">
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="42" column="37" />
-        <mark key="^" line="42" column="37" />
-        <mark key="." line="42" column="37" />
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525604301835">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -181,10 +180,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>private</text>
+        <text>int</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>int</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -193,28 +192,28 @@
         <text encoding="base64">ICAgIHB1YmxpYyBSZWN0KGludCB4LCBpbnQgeSwgQ29sb3IgYykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENvbG9yIGNvbG9yOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIENvbG9yIGNvbG9yOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHAueDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEludGVnZXIgCg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgYSA9IHAueDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIEludGVnZXIgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNpemUgc2l6ZSA9IG5ldyBTaXplKCkK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFNpemUgc2l6ZSA9IG5ldyBTaXplKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
