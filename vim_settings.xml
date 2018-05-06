@@ -40,6 +40,12 @@
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525601434600">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="69" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1522038722004">
         <mark key="[" line="0" column="0" />
       </file>
@@ -175,10 +181,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
