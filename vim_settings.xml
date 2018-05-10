@@ -184,6 +184,12 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1525948653689">
+        <mark key="[" line="72" column="26" />
+        <mark key="]" line="72" column="33" />
+        <mark key="." line="72" column="33" />
+        <mark key="^" line="72" column="33" />
+      </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
         <mark key="]" line="1517" column="0" />
@@ -208,47 +214,47 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>2</text>
+        <text>nextint</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>nextint</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">RG90c1ZpZXcg</text>
+      <register name="0" type="2">
+        <text encoding="base64">Ly8gICAgICAgIHJhbmRvbSBybmQgPSBuZXcgcmFuZG9tKCk7Ci8vICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGlkeCA9IHJuZC5uZXh0aW50KDI1NSk7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tIHJuZCA9IG5ldyByYW5kb20oKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Rect;</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIC8vIFZpZXfjgpLntpnmib/jgZfjgZ/jgq/jg6njgrkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNsYXNzIE15VmlldyBleHRlbmRzIFZpZXcgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBWaWV344KS57aZ5om/44GX44Gf44Kv44Op44K5CiAgICBjbGFzcyBNeVZpZXcgZXh0ZW5kcyBWaWV3IHsKICAgICAgICBwcml2YXRlIFBhaW50IHBhaW50OwoKICAgICAgICAvLyDmj4/nlLvjgZnjgovjg6njgqTjg7Pjga7lpKrjgZUKICAgICAgICBwcml2YXRlIGludCBTdHJva2VXaWR0aCA9IDA7CgogICAgICAgIHB1YmxpYyBNeVZpZXcoQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgICAgIHN1cGVyKGNvbnRleHQpOwogICAgICAgICAgICBwYWludCA9IG5ldyBQYWludCgpOwogICAgICAgIH0KCiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHJvdGVjdGVkIHZvaWQgb25EcmF3KENhbnZhcyBjYW52YXMpIHsKICAgICAgICAgICAgLy8g44Oa44Kk44Oz44OI44K544OI44Ot44O844Kv44Gu5aSq44GV44KS6Kit5a6aCiAgICAgICAgICAgIHBhaW50LnNldFN0cm9rZVdpZHRoKFN0cm9rZVdpZHRoKTsKICAgICAgICAgICAgLy8gU3R5bGXjga7jgrnjg4jjg63jg7zjgq/jgpLoqK3lrprjgZnjgosKICAgICAgICAgICAgcGFpbnQuc2V0U3R5bGUoUGFpbnQuU3R5bGUuU1RST0tFKTsKCiAgICAgICAgICAgIHBhaW50LnNldFN0eWxlKFBhaW50LlN0eWxlLkZJTEwpOwogICAgICAgICAgICAvLyBkcmF3UmVjdOOCkuS9v+OBo+OBpuefqeW9ouOCkuaPj+eUu+OBmeOCi+OAgeW8leaVsOOBq+W6p+aomeOCkuioreWumgogICAgICAgICAgICAvLyAoeDEseTEseDIseTIscGFpbnQpIOW3puS4iuOBruW6p+aomSh4MSx5MSksIOWPs+S4i+OBruW6p+aomSh4Mix5MikKLy8gICAgICAgICAgICBjYW52YXMuZHJhd1JlY3QoMzAwLCAzMDAsNjAwLCA2MDAsIHBhaW50KTsKCiAgICAgICAgICAgIERvdHNNYW5hZ2VyIGRtID0gbmV3IERvdHNNYW5hZ2VyKCk7CgogICAgICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGRtLk1BWF9DT0wgKiBkbS5NQVhfUk9XOyBpKyspIHsKICAgICAgICAgICAgICAgIERvdCBkb3QgPSBkbS5nZXREb3QoaSk7CiAgICAgICAgICAgICAgICAvLyDjg5rjgqTjg7Pjg4jjgZnjgovoibLjga7oqK3lrpoKLy8gICAgICAgICAgICAgICAgcGFpbnQuc2V0Q29sb3IoQ29sb3IuYXJnYigyNTUsIDI1NSwgMCwgMjU1KSk7CiAgICAgICAgICAgICAgICBwYWludC5zZXRDb2xvcihDb2xvci5hcmdiKENvbG9yLmFscGhhKGRvdC5jb2xvciksIENvbG9yLnJlZChkb3QuY29sb3IpLCBDb2xvci5ncmVlbihkb3QuY29sb3IpLCBDb2xvci5ibHVlKGRvdC5jb2xvcikpKTsKLy8gICAgICAgICAgICAgICAgcGFpbnQuc2V0Q29sb3IoQ29sb3IudG9BcmdiKChsb25nKWRvdC5nZXRDb2xvcigpKSk7CiAgICAgICAgICAgICAgICBSZWN0IHIgPSBuZXcgUmVjdChkb3QucG9pbnQueCwgZG90LnBvaW50LnksIGRvdC5wb2ludC54ICsgZG0uU0laRSwgZG90LnBvaW50LnkgKyBkbS5TSVpFKTsKICAgICAgICAgICAgICAgIGNhbnZhcy5kcmF3UmVjdChyLCBwYWludCk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNsYXNzIE15VmlldyBleHRlbmRzIFZpZXcgewo=</text>
       </register>
     </registers>
     <search>
