@@ -12,6 +12,7 @@
       <file name="/a.dummy" timestamp="1521709172375">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/Completion.java" timestamp="1527343875288" />
       <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,6 +131,12 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsView.java" timestamp="1527344668551">
+        <mark key="[" line="39" column="41" />
+        <mark key="]" line="39" column="72" />
+        <mark key="^" line="39" column="72" />
+        <mark key="." line="39" column="72" />
+      </file>
       <file name="$USER_HOME$/develop/poloniex_alert/currency_pair.rb" timestamp="1522128209348">
         <mark key="[" line="7" column="13" />
         <mark key="]" line="1" column="0" />
@@ -193,11 +200,11 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1525948653689">
-        <mark key="[" line="72" column="26" />
-        <mark key="]" line="72" column="33" />
-        <mark key="." line="72" column="33" />
-        <mark key="^" line="72" column="33" />
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527344730779">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="40" column="27" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -222,11 +229,11 @@
       <jump line="61" column="51" filename="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text encoding="base64">IHRoaXM=</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -235,35 +242,31 @@
         <text encoding="base64">Ly8gICAgICAgIHJhbmRvbSBybmQgPSBuZXcgcmFuZG9tKCk7Ci8vICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGlkeCA9IHJuZC5uZXh0aW50KDI1NSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmFuZG9tIHJuZCA9IG5ldyByYW5kb20oKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQud2lkZ2V0LlRleHRWaWV3Owo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQudmlldy5WaWV3Owo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQb2ludCBnZXRWaWV3U2l6ZShWaWV3IFZpZXcpewogICAgICAgIFBvaW50IHBvaW50ID0gbmV3IFBvaW50KDAsIDApOwogICAgICAgIHBvaW50LnNldChWaWV3LmdldFdpZHRoKCksIFZpZXcuZ2V0SGVpZ2h0KCkpOwogICAgICAgIFNDUl9XSURUSD1wb2ludC54OwoKICAgICAgICByZXR1cm4gcG9pbnQ7CiAgICB9Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>import android.content.Context;
-import android.graphics.Canvas;
-import android.graphics.Color;
-import android.graphics.Paint;
-import android.graphics.Rect;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBEb3RzTWFuYWdlcihWaWV3IHZpZXcpIHsKICAgICAgICBnZXRWaWV3U2l6ZSh2aWV3KTsKICAgICAgICB0aGlzLmlucHV0RGF0YSA9IG1ha2VEdW1teURhdGEoKTsKICAgIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRWaWV3U2l6ZSgpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFZpZXfjgpLntpnmib/jgZfjgZ/jgq/jg6njgrkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IGlkeCA9IHJuZC5uZXh0aW50KDI1NSk7Cg==</text>
       </register>
     </registers>
     <search>
