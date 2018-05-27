@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DisplayManager.java" timestamp="1527391061940">
-        <mark key="[" line="24" column="26" />
-        <mark key="]" line="24" column="48" />
-        <mark key="^" line="24" column="48" />
-        <mark key="." line="24" column="48" />
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DisplayManager.java" timestamp="1527432399468">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="31" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
         <mark key="[" line="0" column="0" />
@@ -18,7 +18,6 @@
       <file name="/a.dummy" timestamp="1521709172375">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/Completion.java" timestamp="1527343875288" />
       <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
         <mark key="[" line="0" column="0" />
       </file>
@@ -183,7 +182,7 @@
         <mark key="^" line="2154" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" timestamp="1527335395930">
-        <mark key="[" line="56" column="32" />
+        <mark key="[" line="76" column="32" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/test_html/hage.html" timestamp="1522038162493">
         <mark key="[" line="14" column="7" />
@@ -206,12 +205,12 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527391255757">
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527432537860">
         <mark key="'" line="210" column="0" />
-        <mark key="[" line="25" column="47" />
-        <mark key="]" line="25" column="46" />
-        <mark key="^" line="25" column="46" />
-        <mark key="." line="25" column="46" />
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="83" column="12" />
+        <mark key="^" line="79" column="30" />
+        <mark key="." line="83" column="12" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -237,11 +236,11 @@
       <jump line="211" column="0" filename="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>{</text>
       </register>
       <register name="-" type="4">
-        <text>START_Y</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
