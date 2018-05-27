@@ -200,11 +200,12 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527344730779">
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="^" line="40" column="27" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527385971194">
+        <mark key="'" line="209" column="0" />
+        <mark key="[" line="75" column="12" />
+        <mark key="]" line="75" column="16" />
+        <mark key="^" line="75" column="16" />
+        <mark key="." line="75" column="16" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -227,13 +228,14 @@
       <jump line="15" column="0" filename="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/header.php" />
       <jump line="12" column="7" filename="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" />
       <jump line="61" column="51" filename="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" />
+      <jump line="211" column="0" filename="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoaXM=</text>
+        <text>SCR_MAX</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -245,28 +247,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBQb2ludCBnZXRWaWV3U2l6ZShWaWV3IFZpZXcpewogICAgICAgIFBvaW50IHBvaW50ID0gbmV3IFBvaW50KDAsIDApOwogICAgICAgIHBvaW50LnNldChWaWV3LmdldFdpZHRoKCksIFZpZXcuZ2V0SGVpZ2h0KCkpOwogICAgICAgIFNDUl9XSURUSD1wb2ludC54OwoKICAgICAgICByZXR1cm4gcG9pbnQ7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEb3RzTWFuYWdlcihWaWV3IHZpZXcpIHsKICAgICAgICBnZXRWaWV3U2l6ZSh2aWV3KTsKICAgICAgICB0aGlzLmlucHV0RGF0YSA9IG1ha2VEdW1teURhdGEoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8v44K544Kv44Oq44O844Oz5qiq5bmFCiAgICBmaW5hbCBpbnQgU0NSX1dJRFRIOwogICAgLy/jgrnjgq/jg6rjg7zjg7PnuKbluYUKICAgIGZpbmFsIGludCBTQ1JfSEVJR0hUOwogICAgLy/jgrnjgq/jg6rjg7zjg7Pjga7mnIDlpKfluYUKICAgIGZpbmFsIGludCBTQ1JfTUFYOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRWaWV3U2l6ZSgpCg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGludCBNQVhfQ09MID0gNDA7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGFuZHJvaWQuc3VwcG9ydC52Ny5hcHAuQXBwQ29tcGF0QWN0aXZpdHk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgT3B0aW1pemVEb3RzU2l6ZSgpIHsKICAgICAgICBpZiAoU0NSX1dJRFRIID4gU0NSX0hFSUdIVCkgewoKCiAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgfQoKICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IGlkeCA9IHJuZC5uZXh0aW50KDI1NSk7Cg==</text>
+        <text encoding="base64">ICAgIGZpbmFsIGludCBNQVhfUk9XID0gNDA7Cg==</text>
       </register>
     </registers>
     <search>
