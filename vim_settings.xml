@@ -97,7 +97,7 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525620092770">
+      <file name="/Dummy.txt" timestamp="1527387936467">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -200,12 +200,12 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527385971194">
-        <mark key="'" line="209" column="0" />
-        <mark key="[" line="75" column="12" />
-        <mark key="]" line="75" column="16" />
-        <mark key="^" line="75" column="16" />
-        <mark key="." line="75" column="16" />
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527389257453">
+        <mark key="'" line="210" column="0" />
+        <mark key="[" line="82" column="46" />
+        <mark key="]" line="83" column="21" />
+        <mark key="^" line="83" column="21" />
+        <mark key="." line="83" column="21" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -232,43 +232,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludClNYXRoLmNlaWwocmVzdWx0KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>SCR_MAX</text>
+        <text>size</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJhbmRvbSBybmQgPSBuZXcgcmFuZG9tKCk7Ci8vICAgICAgICBpbnQgaWR4ID0gcm5kLm5leHRpbnQoMjU1KTsK</text>
+      <register name="0" type="4">
+        <text>(MAX_ROW * MAGNIFICATION)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludClNYXRoLmNlaWwocmVzdWx0KTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkb3VibGUgcmVzdWx0ID0gKGRvdWJsZSkoc2NyTWF4IC8gKE1BWF9ST1cgKiBNQUdOSUZJQ0FUSU9OKSkqT0NDVVBBTkNZOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8v44K544Kv44Oq44O844Oz5qiq5bmFCiAgICBmaW5hbCBpbnQgU0NSX1dJRFRIOwogICAgLy/jgrnjgq/jg6rjg7zjg7PnuKbluYUKICAgIGZpbmFsIGludCBTQ1JfSEVJR0hUOwogICAgLy/jgrnjgq/jg6rjg7zjg7Pjga7mnIDlpKfluYUKICAgIGZpbmFsIGludCBTQ1JfTUFYOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGludCBNQVhfQ09MID0gNDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBrCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT3B0aW1pemVEb3RzU2l6ZSgpIHsKICAgICAgICBpZiAoU0NSX1dJRFRIID4gU0NSX0hFSUdIVCkgewoKCiAgICAgICAgfSBlbHNlIHsKCiAgICAgICAgfQoKICAgIH0K</text>
+        <text encoding="base64">ICAgIC8v44K544Kv44Oq44O844Oz44Gr44Oe44OI44Oq44Kv44K544Gu5Y2g44KB44KL5Ymy5ZCICg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZpbmFsIGludCBNQVhfUk9XID0gNDA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
