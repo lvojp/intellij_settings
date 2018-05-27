@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DisplayManager.java" timestamp="1527390247308">
+        <mark key="[" line="22" column="8" />
+        <mark key="]" line="22" column="13" />
+        <mark key="^" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+      </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
         <mark key="[" line="0" column="0" />
       </file>
@@ -200,12 +206,12 @@
         <mark key="^" line="52" column="25" />
         <mark key="." line="102" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527389257453">
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsManager.java" timestamp="1527390314649">
         <mark key="'" line="210" column="0" />
-        <mark key="[" line="82" column="46" />
-        <mark key="]" line="83" column="21" />
-        <mark key="^" line="83" column="21" />
-        <mark key="." line="83" column="21" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
@@ -232,10 +238,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludClNYXRoLmNlaWwocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>size</text>
+        <text>START_Y</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
@@ -244,31 +250,31 @@
         <text>(MAX_ROW * MAGNIFICATION)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gKGludClNYXRoLmNlaWwocmVzdWx0KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgcmVzdWx0ID0gKGRvdWJsZSkoc2NyTWF4IC8gKE1BWF9ST1cgKiBNQUdOSUZJQ0FUSU9OKSkqT0NDVVBBTkNZOwo=</text>
+        <text encoding="base64">ICAgIC8v44OH44Kj44K544OX44Os44Kk44K144Kk44K6IDEwNDAgeCAxOTIw44Gu5aC05ZCI44Gu44OJ44OD44OI44Gu44K544K/44O844OI5Zyw54K5KHgseSkKICAgIGZpbmFsIGludCBTVEFSVF9YID0gNDA7CiAgICBmaW5hbCBpbnQgU1RBUlRfWSA9IDQwOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgcmVzdWx0Owo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIC8v5YCN546HCiAgICBmaW5hbCBpbnQgTUFHTklGSUNBVElPTiA9IDU7CiAgICAvL+eUu+mdouS4iuOBp+ODnuODiOODquODg+OCr+OCueOBruWNoOOCgeOCi+WJsuWQiAogICAgZmluYWwgZG91YmxlIE9DQ1VQQU5DWSA9IDAuOTsKCiAgICAvL+OCueOCr+ODquODvOODs+aoquW5hQogICAgaW50IHNjcldpZHRoOwogICAgLy/jgrnjgq/jg6rjg7zjg7PnuKbluYUKICAgIGludCBzY3JIZWlnaHQ7CiAgICAvL+OCueOCr+ODquODvOODs+OBruacgOWkp+W5hQogICAgaW50IHNjck1heDsKICAgIAogICAgLy/jg4njg4Pjg4jjga7ooajnpLrjgavplqLjgZfjgaYKICAgIGludCBkb3RTaXplOwogICAgaW50IHNjck1hcmdpbjs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8v44K544Kv44Oq44O844Oz44Gr44Oe44OI44Oq44Kv44K544Gu5Y2g44KB44KL5Ymy5ZCICg==</text>
+        <text encoding="base64">ICAgIC8vbWF0cml4IGRvdCBzaXplICh3aWR0aCB4IGhlaWdodCBib3RoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
     </registers>
     <search>
