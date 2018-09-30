@@ -43,6 +43,7 @@
         <mark key="^" line="14" column="43" />
         <mark key="." line="14" column="43" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/aison/understrap/footer.php" timestamp="1538280616336" />
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,6 +191,7 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/aison/slant/index.html" timestamp="1538280880680" />
       <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsView.java" timestamp="1525619753825">
         <mark key="[" line="19" column="35" />
         <mark key="]" line="19" column="19" />
@@ -248,7 +250,7 @@
         <text>testtesttesttest</text>
       </register>
       <register name="/" type="4">
-        <text>.idea</text>
+        <text>hoge</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBpbml0aWFsaXplKCl7CiAgICAgICAgc2NybWF4ID0gY2hlY2tzY3JlZW5tYXgoc2Nyd2lkdGgsIHNjcmhlaWdodCk7Cg==</text>
@@ -282,9 +284,9 @@
       </register>
     </registers>
     <search>
-      <last-search>.idea</last-search>
+      <last-search>hoge</last-search>
       <last-offset />
-      <last-pattern>.idea</last-pattern>
+      <last-pattern>hoge</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -292,6 +294,7 @@
       <history-search>
         <entry>blog-logo</entry>
         <entry>.idea</entry>
+        <entry>hoge</entry>
       </history-search>
       <history-cmd />
       <history-expr />
