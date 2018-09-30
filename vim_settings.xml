@@ -218,6 +218,11 @@
         <mark key="^" line="1517" column="0" />
         <mark key="." line="1517" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/aison/understrap/index.php" timestamp="1538279825094">
+        <mark key="[" line="32" column="16" />
+        <mark key="]" line="32" column="16" />
+        <mark key="." line="32" column="16" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/MainActivity.java" timestamp="1525619712373">
         <mark key="i" line="26" column="28" />
         <mark key="[" line="4" column="0" />
@@ -237,10 +242,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>{</text>
+        <text>testtesttesttest</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>testtesttesttest</text>
       </register>
       <register name="/" type="4">
         <text>.idea</text>
