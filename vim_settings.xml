@@ -3,7 +3,22 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DisplayManager.java" timestamp="1527432399468">
+        <mark key="[" line="13" column="30" />
+        <mark key="]" line="13" column="31" />
+        <mark key="^" line="13" column="30" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Ruby Console" timestamp="1524038762565">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1521709172375">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/CanvasBasicView.java" timestamp="1525100539308">
@@ -11,6 +26,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" timestamp="1525601348382">
+        <mark key="'" line="61" column="51" />
+        <mark key="[" line="61" column="53" />
+        <mark key="]" line="61" column="54" />
+        <mark key="." line="61" column="54" />
+        <mark key="^" line="74" column="19" />
       </file>
       <file name="$USER_HOME$/IdeaProjects/testruby/hoge.php" timestamp="1521448646691">
         <mark key="[" line="0" column="0" />
@@ -24,6 +46,11 @@
       <file name="/Ruby Fragment (main.rb:0).rb" timestamp="1522044995875">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525604760916">
+        <mark key="[" line="72" column="6" />
+        <mark key="]" line="72" column="6" />
+        <mark key="." line="72" column="6" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotManager.java" timestamp="1525604878940">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="27" />
@@ -36,8 +63,23 @@
         <mark key="^" line="0" column="21" />
         <mark key="." line="0" column="21" />
       </file>
+      <file name="/JavaScript Console" timestamp="1538291043534">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/lib/hoge.rb" timestamp="1522128346222">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="10" />
+        <mark key="^" line="0" column="10" />
+        <mark key="." line="0" column="10" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/idea.vmoptions" timestamp="1521205286989">
         <mark key="[" line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/test.html" timestamp="1521296985944">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="13" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/develop/poloniex_alert/main.rb" timestamp="1523085175250">
         <mark key="[" line="6" column="32" />
@@ -60,6 +102,22 @@
         <mark key="." line="2" column="43" />
         <mark key="^" line="2" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1527394825435">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" timestamp="1525104379420">
+        <mark key="'" line="12" column="7" />
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="46" column="43" />
+      </file>
       <file name="$USER_HOME$/develop/ruby/poloniex_ruby/Gemfile" timestamp="1523349456938">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -78,102 +136,6 @@
         <mark key="^" line="5" column="13" />
         <mark key="." line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/IntelliJIDEAProjects/ArraySample/app/src/main/java/jp/co/lives/arraysample/MainActivity.java" timestamp="1525096112222">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="17" />
-        <mark key="^" line="29" column="23" />
-        <mark key="." line="56" column="17" />
-      </file>
-      <file name="/" timestamp="1522038747456">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/res/layout/activity_main.xml" timestamp="1525619505566">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="43" />
-        <mark key="^" line="9" column="29" />
-        <mark key="." line="10" column="43" />
-      </file>
-      <file name="$USER_HOME$/develop/poloniex_alert/memo.txt" timestamp="1522137329385">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/aison/static_html/index.html" timestamp="1538292093931">
-        <mark key="[" line="2942" column="52" />
-        <mark key="]" line="2942" column="58" />
-        <mark key="^" line="2942" column="58" />
-        <mark key="." line="2942" column="58" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsView.java" timestamp="1525619753825">
-        <mark key="[" line="19" column="35" />
-        <mark key="]" line="19" column="19" />
-        <mark key="^" line="20" column="22" />
-        <mark key="." line="19" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/aison/understrap/index.php" timestamp="1538287018953">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DisplayManager.java" timestamp="1527432399468">
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="31" />
-        <mark key="^" line="13" column="30" />
-        <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/develop/wordpress/giraffeong.com/memo.txt" timestamp="1521983838794">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Ruby Console" timestamp="1524038762565">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/IdeaProjects/untitled/test.php" timestamp="1521449146338">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectManager.java" timestamp="1525601348382">
-        <mark key="'" line="61" column="51" />
-        <mark key="[" line="61" column="53" />
-        <mark key="]" line="61" column="54" />
-        <mark key="." line="61" column="54" />
-        <mark key="^" line="74" column="19" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/RectanglesManager.java" timestamp="1525604760916">
-        <mark key="[" line="72" column="6" />
-        <mark key="]" line="72" column="6" />
-        <mark key="." line="72" column="6" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1538291043534">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/develop/poloniex_alert/lib/hoge.rb" timestamp="1522128346222">
-        <mark key="[" line="0" column="11" />
-        <mark key="]" line="0" column="10" />
-        <mark key="^" line="0" column="10" />
-        <mark key="." line="0" column="10" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/test.html" timestamp="1521296985944">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="13" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1527394825435">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/.gitignore" timestamp="1521771163321">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Dropbox/project/Lives/Android/app/src/main/java/jp/co/lives/gaitview2/MainActivity.java" timestamp="1525104379420">
-        <mark key="'" line="12" column="7" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="46" column="43" />
-      </file>
       <file name="$USER_HOME$/Desktop/gaitview2/app/src/main/java/jp/co/lives/gaitview2/DotsView.java" timestamp="1527344668551">
         <mark key="[" line="39" column="41" />
         <mark key="]" line="39" column="72" />
@@ -186,7 +148,25 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/IntelliJIDEAProjects/ArraySample/app/src/main/java/jp/co/lives/arraysample/MainActivity.java" timestamp="1525096112222">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="56" column="17" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.rb" timestamp="1522043095570">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/" timestamp="1522038747456">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/res/layout/activity_main.xml" timestamp="1525619505566">
+        <mark key="[" line="10" column="43" />
+        <mark key="]" line="10" column="43" />
+        <mark key="^" line="9" column="29" />
+        <mark key="." line="10" column="43" />
+      </file>
+      <file name="$USER_HOME$/develop/poloniex_alert/memo.txt" timestamp="1522137329385">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/IntelliJIDEAProjects/ShowImage/app/src/main/java/jp/co/lives/showimage/MainActivity.java" timestamp="1525094918879">
@@ -210,6 +190,15 @@
         <mark key="." line="4" column="18" />
         <mark key="^" line="4" column="18" />
       </file>
+      <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsView.java" timestamp="1525619753825">
+        <mark key="[" line="19" column="35" />
+        <mark key="]" line="19" column="19" />
+        <mark key="^" line="20" column="22" />
+        <mark key="." line="19" column="19" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/nogoodchill/web/theme/fukasawa/EADME.md" timestamp="1521771185172">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Dropbox/project/Lives/CanvasTest/app/src/main/java/jp/co/lives/canvastest/DotsManager.java" timestamp="1525614919600">
         <mark key="[" line="102" column="38" />
         <mark key="]" line="102" column="38" />
@@ -222,6 +211,11 @@
         <mark key="]" line="83" column="12" />
         <mark key="^" line="79" column="30" />
         <mark key="." line="83" column="12" />
+      </file>
+      <file name="$USER_HOME$/Dropbox/project/aison/understrap/index.php" timestamp="1538287018953">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/develop/wordpress/giraffeong.com/mag_tcd036/style.css" timestamp="1521983711605">
         <mark key="[" line="1518" column="2" />
